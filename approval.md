@@ -79,7 +79,7 @@ Response Body (Success)
         "destination": string
         "status": "approved" | "rejected",
         "date": string
-        "requestor": string,
+        "approvel": string,
     }
   ]
 }
