@@ -9,7 +9,7 @@ Request Body
   "driver": string
   "destination": string
   "date": string
-  "requestor": string
+  "approvel": string
 }
 ```
 
